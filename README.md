@@ -16,6 +16,8 @@ How?
 - Naming conventions are mandatory! You must name your new project in github, exactly as prescribed below.
 - Folder structures are mandatory. You are expected to follow, just as you would follow wihtin any future employer's protocols.
 
+## What IDE?
 
+Eclipse, IntelliJ and VSCode all bring this project in
 
 
