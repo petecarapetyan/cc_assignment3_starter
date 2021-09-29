@@ -1,4 +1,4 @@
-# cc_assignment3_starter
+# cc_assignment3_template
 
 __Everything in this project and derivative projects is experimental, tentative, unapproved__
 
