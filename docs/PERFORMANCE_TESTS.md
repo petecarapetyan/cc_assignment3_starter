@@ -15,3 +15,6 @@ remove as many infrastructure/tooling obstacles from coding assignments:
 - or teach tooling/setup
 - not both at same time, especially to start with
 "It just works"
+may find other stuff here that you want: 
+- https://winterbe.com/posts/2018/08/29/migrate-maven-projects-to-java-11-jigsaw/
+- https://newbedev.com/how-to-specify-java-11-version-in-spring-spring-boot-pom-xml
