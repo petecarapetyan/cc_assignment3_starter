@@ -12,11 +12,11 @@ and also containing JUnit and a non-static app launcher.
 
 ## To Clone this template as your own CoderCampus project
 
-- Follow instructions from the green github button `Use this template`
+- Follow instructions from the green github button named `Use this template`
 - Then simply clone into your own environment straight from github
 
-## What IDE?
+## Which IDE?
 
-Eclipse, STS, IntelliJ and VSCode all bring this project in by using the `import as maven project` tooling.
+Eclipse, STS, IntelliJ and VSCode all bring this project in by using tooling named similar to `import as maven project`.
 
 
