@@ -1,23 +1,22 @@
-# cc_assignment3_template
+# cc_starter_w_junit_template
 
-__Everything in this project and derivative projects is experimental, tentative, unapproved__
+This template gives you a java starter, already set up to commit back to github, 
+and also containing JUnit and a non-static app launcher.
 
-## To Clone this template as your Assignment3
+## Why?
 
-Why?
-
-- This project skaffolds your project as our corporate environment requires it
-- Gets you accustomed to similar standards that future employers will also require
-- Helps our code reviewers keep you "coloring between the lines"
+- Get accustomed to utilizing corporate standard setups from day 1
+- Help you avoid a few common foot-guns that plague many students
+- Skaffolds your project as our reviewers expect it
 - Helps you focus your work where it matters, on the serviceable code within.
 
-How?
+## To Clone this template as your own CoderCampus project
 
-- Naming conventions are mandatory! You must name your new project in github, exactly as prescribed below.
-- Folder structures are mandatory. You are expected to follow, just as you would follow wihtin any future employer's protocols.
+- Follow instructions from the green github button `Use this template`
+- Then simply clone into your own environment straight from github
 
 ## What IDE?
 
-Eclipse, IntelliJ and VSCode all bring this project in
+Eclipse, STS, IntelliJ and VSCode all bring this project in by using the `import as maven project` tooling.
 
 
