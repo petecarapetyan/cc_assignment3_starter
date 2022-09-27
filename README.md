@@ -52,6 +52,26 @@ Some example code is included in this project. Depending on your skill level ...
 
 But if you hand this project in as an assignment, you probably want to delete anything that is not a part of the assignment.
 
+## How To Clean Up Before Handing In as Assignment
+
+This project includes a bunch of boilerplate for demonstration purposes only. Assuming none of these become a part of your project ... here's how to remove them before handing your project in for a review.
+
+FIRST COMMIT YOUR PROJECT WITH GIT BEFORE YOU START!
+
+First remove these:
+
+- AppConstants.java
+- MyService.java
+- MyServiceTest.java
+- data.txt
+
+
+Then (optionally) remove any empty package folders
+
+You can then go into Eclipse and little red squiggles will tell you what else needs to be deleted.
+
+Make sure your assignment still runs perfectly!
+
 ## Other notes:
 
 - This project attempts to enforce a Java 11 version on the user. This is intentional, as this is a standard in the bootcamp.
